@@ -9,6 +9,8 @@ https://github.com/mchestr/HT1632C-Python
 
 Follow the instructions on his git for installation and testing first.  If the samples dont work then the ticker wont work.
 
+**You must recompile after making any changes to the panelconfig.h file for them to take effect.
+
 ## Hardware
 
 The SURE panel I am using is no longer available for sale however is the one listed here:
